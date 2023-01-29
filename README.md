@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Angelica-Saraiva
 - 👀 I’m interested in Full Stack, Data Science
 - 🌱 I’m currently studying Data Science and working with automation
-- 💞️ I’m looking to collaborate on devs
+- 💞️ I’m looking to collaborate with devs
 - 📫 How to reach me: https://www.linkedin.com/in/angelica-saraiva
 
 <!---
