@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Angelica-Saraiva
-- 👀 I’m interested in web development, Full Stack, Data Science
-- 🌱 I’m currently learning about... all! I'm understanding this new area
+- 👀 I’m interested in Full Stack, Data Science
+- 🌱 I’m currently studying Data Science and working with automation
 - 💞️ I’m looking to collaborate on devs
 - 📫 How to reach me: https://www.linkedin.com/in/angelica-saraiva
 
